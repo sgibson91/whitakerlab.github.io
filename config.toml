@@ -1,4 +1,4 @@
-baseURL = "https://whitakerlab.github.io/"
+baseURL = "https://whitaker-lab.netlify.app/"
 languageCode = "en-gb"
 title = "Whitaker Lab"
 theme = "minimo"
