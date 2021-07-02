@@ -20,7 +20,7 @@ I think it's a radically collaborative way of sharing knowledge and so much more
 (Bearing in mind that there almost never \*is\* a perfect finished product!)
 
 What's really fascinating though is to think about how to give credit for those ideas.
-Your open licence ([MIT](https://choosealicense.com/licenses/mit/), [BSD](http://www.linfo.org/bsdlicense.html) or [Apache](https://choosealicense.com/licenses/apache-2.0/) for example) allows people to re-use whatever they find in your GitHub repository so long as they credit you.
+Your open licence ([MIT](https://choosealicense.com/licenses/mit/), [BSD](https://www.linfo.org/bsdlicense.html) or [Apache](https://choosealicense.com/licenses/apache-2.0/) for example) allows people to re-use whatever they find in your GitHub repository so long as they credit you.
 
 ### But what if you're not done yet?
 

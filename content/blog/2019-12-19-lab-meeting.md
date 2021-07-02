@@ -83,7 +83,7 @@ At the same time, I learned a lot from Kirstie in the use of Github as well as [
 I'm excited in preparation for contributing a new section in power analysis.
 Really looking forward to more chapters in _The Turing Way_.
 
-I have attended several really wonderful conferences in Europe, including [Cambridge Network Day](https://www.cnn.group.cam.ac.uk/cambridge-networks-day), [OHBM](https://www.humanbrainmapping.org/i4a/pages/index.cfm?pageID=3882&activateFull=true) and [Luminous workshop](http://www.luminous-project.eu/index.php/workshop-studying-measuring-and-altering-consciousness/), and they are all amazing!
+I have attended several really wonderful conferences in Europe, including [Cambridge Network Day](https://www.cnn.group.cam.ac.uk/cambridge-networks-day), [OHBM](https://www.humanbrainmapping.org/i4a/pages/index.cfm?pageID=3882&activateFull=true) and [Luminous workshop](https://www.luminous-project.eu/index.php/workshop-studying-measuring-and-altering-consciousness/), and they are all amazing!
 Moreover, I gave my first English presentation in public at the Turing mental health group.
 
 ## Georgia Aitkenhead
@@ -106,7 +106,7 @@ I've had the chance to deliver my project at conferences and events, and learned
 I'm spending the end of 2019 feeling really lucky for being where I am; to be working with so many wonderful, passionate people; and to have the freedom to explore topics I'm really excited about.
 
 For me, it was the year of joining the [Neuro-AI community here in Montreal](https://sites.google.com/view/unique-neuro-ai), speaking at an international conference for the first time in the OHBM [open science symposium](https://figshare.com/articles/Enabling_Open_Publishing_Building_Open_Tools_with_Open_Communities/8292269), and heading back to [Neurohackademy](https://neurohackademy.org/) for the first time since 2016 -- but this time as an instructor!
-It was also a year of building stronger communities for open source projects I really care about, like [tedana](https://tedana.readthedocs.io) and [nilearn](http://nilearn.github.io).
+It was also a year of building stronger communities for open source projects I really care about, like [tedana](https://tedana.readthedocs.io) and [nilearn](https://nilearn.github.io).
 
 ## Yini He
 
@@ -146,7 +146,7 @@ To go around my picture, spiralling inwards from the top left:
 * I'm proud to have spent a lot of time this summer thinking about how to [connect lab members together](https://github.com/WhitakerLab/Onboarding/blob/lab-meetings/Lab-meetings.md) in a strong, resilient, decentralised network.
   I'm not sure we're totally there yet, but I think we're making good progress.
 * I think this Baby Groot card from [Elizabeth](https://elizabeth-dupre.com/) is the greatest thing I've ever seen and it reminds me to focus on the things I have control of and to let go of my jealousy as best I can [#GrootGif](https://twitter.com/search?q=%23GrootGif) style 🙌
-* This year I started going over to write with [Kelly Clancy](http://www.kellybclancy.com/) and I wrote up 10 simple rules to run an open and inclusive community online.
+* This year I started going over to write with [Kelly Clancy](https://www.kellybclancy.com/) and I wrote up 10 simple rules to run an open and inclusive community online.
   I didn't get the paper done 🤦‍♀ but I did [give a talk](https://www.youtube.com/watch?v=2O7O_MU4Le4) on the topic and I love this little infographic!
 * I couldn't reflect on the year and _not_ include the spectacular _Turing Way_ [Book Dashes](https://github.com/alan-turing-institute/the-turing-way/tree/master/workshops/book-dash) 📚 💨💨 These were a bit of a random idea I had that worked out better than I could ever have imagined.
   THANK YOU so much to the team for running them, and the amazing community for coming and contributing so much to the book.
@@ -173,7 +173,7 @@ We had a lovely lab dinner on Saturday!
 
 **Patricia's** SSI blogpost on computational notebooks is out: [https://software.ac.uk/blog/2019-12-18-managing-computational-notebooks-overview-chopportunities](https://software.ac.uk/blog/2019-12-18-managing-computational-notebooks-overview-chopportunities).
 
-**Patricia** also shared the [You Got This](http://2020.yougotthis.io) conference (18 January 2020) which provides a space for early career developers to talk about the non-technical skills needed for a happy, healthy work life, and a preprint [Introducing a Framework for Open and Reproducible Research Training (FORRT)](https://doi.org/10.31219/osf.io/bnh7p).
+**Patricia** also shared the [You Got This](https://2020.yougotthis.io) conference (18 January 2020) which provides a space for early career developers to talk about the non-technical skills needed for a happy, healthy work life, and a preprint [Introducing a Framework for Open and Reproducible Research Training (FORRT)](https://doi.org/10.31219/osf.io/bnh7p).
 
 **Elizabeth** shared a podcast interview she led with John Borghi and Ana Van Gulick for the Canadian Open Neuroscience Platform (CONP) about their move to the libraries from cognitive neuroscience and the importance of open data.
 Take a listen here: [https://conp.ca/conp-elizabeth-dupre-ana-van-gulick-and-john-borghi](https://conp.ca/conp-elizabeth-dupre-ana-van-gulick-and-john-borghi)

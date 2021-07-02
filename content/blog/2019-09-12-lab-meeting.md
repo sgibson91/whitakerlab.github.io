@@ -44,11 +44,11 @@ Good luck! 💪
 
 **Yo** is climbing sand dunes in Israel and wandering through ancient (3000 to 4000 years old) underground hand-carved water channels under Jerusalem.
 
-**Yini** is looking forward to attending the [Cambridge Neuroscience Symposium](http://www.neuroscience.cam.ac.uk/events/ABC2019/pages/abc-programme.html).
+**Yini** is looking forward to attending the [Cambridge Neuroscience Symposium](https://www.neuroscience.cam.ac.uk/events/ABC2019/pages/abc-programme.html).
 She knows quite a bit about mental health (on Friday afternoon) but the section on robotics is going to be very new!
 She's slightly nervous but mostly excited.
 
-**Alex** really enjoyed the reinforcement learning talks at [#ABC2019](http://www.neuroscience.cam.ac.uk/events/ABC2019/pages/abc-programme.html).
+**Alex** really enjoyed the reinforcement learning talks at [#ABC2019](https://www.neuroscience.cam.ac.uk/events/ABC2019/pages/abc-programme.html).
 
 **Kirstie** has been zooming around the country.
 She gave a talk on _The Turing Way_ in Edinburgh for the MQ Data Science Meeting (doi [10.5281/zenodo.3402510](https://doi.org/10.5281/zenodo.3402510)) and watched some incredible keynote talks from PyCon and SciPy on the train [from](https://twitter.com/kirstie_j/status/1170250790579187712?s=20) and [to London](https://twitter.com/kirstie_j/status/1170250790579187712?s=20).
@@ -100,7 +100,7 @@ She also found some useful blog posts and articles:
 * [Organizing Academic Research Papers: Choosing a Title](https://library.sacredheart.edu/c.php?g=29803&p=185911)
 * And even though this is about the abstract rather than the title it's always worth sharing: [How to construct a Nature summary paragraph](https://www.nature.com/documents/nature-summary-paragraph.pdf)
 
-**Ang** wonders about how to learn more about [cause-effect pairs data](http://webdav.tuebingen.mpg.de/cause-effect/).
+**Ang** wonders about how to learn more about [cause-effect pairs data](https://webdav.tuebingen.mpg.de/cause-effect/).
 He found it a little strange to detect causal-effect in data with only two variables.
 **Alex** pointed him at a few different (and overlapping) frameworks for causal analysis such as structural equation models, graphical models, and counterfactual analysis.
 He recommended the book ["Causality: Models, Reasoning and Interference"](https://www.amazon.co.uk/Causality-Reasoning-Inference-Judea-Pearl/dp/0521773628) by Judea Pearl.

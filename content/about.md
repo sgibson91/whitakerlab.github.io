@@ -28,7 +28,7 @@ __More information:__
 
 {{< figure src="/images/IS_whitakerblogprofile.jpg" alt="Isla Staden" width="40%" >}}
 
-Isla Staden is a Research Assistant in the Whitaker Lab, refactoring [Brain Networks In Python](https://github.com/WhitakerLab/BrainNetworksInPython) and curating data in the [Neuroscience in Psychiatry Network](http://www.nspn.org.uk/). She is interested in topology and network science; open source development; open data and reproducible science and finally brains.
+Isla Staden is a Research Assistant in the Whitaker Lab, refactoring [Brain Networks In Python](https://github.com/WhitakerLab/BrainNetworksInPython) and curating data in the [Neuroscience in Psychiatry Network](https://www.nspn.org.uk/). She is interested in topology and network science; open source development; open data and reproducible science and finally brains.
 
 __More information:__
 * CV: [Isla-Staden-CV.pdf](https://github.com/Islast/WhitakerLabProjectManagement/blob/master/Isla-Staden/Isla-Staden-CV.pdf)

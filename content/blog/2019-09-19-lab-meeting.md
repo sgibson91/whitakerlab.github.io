@@ -10,7 +10,7 @@ tags: [lab-meeting]
 We didn't have a lab meeting today because the timing of the meeting coincided with the Turing's [Data Science for Mental Health Interest Group](https://turing-ds4mh.github.io/index.html).
 
 The two talks were excellent.
-[Neil Oxtoby](http://neiloxtoby.com/) presented an introduction to data-driven disease progression modelling, and [Alexandra Young](https://ayoungresearch.wordpress.com/) extended Neil's presentation with a specific example of data-driven modelling and progression of subtypes of dementia.
+[Neil Oxtoby](https://neiloxtoby.com/) presented an introduction to data-driven disease progression modelling, and [Alexandra Young](https://ayoungresearch.wordpress.com/) extended Neil's presentation with a specific example of data-driven modelling and progression of subtypes of dementia.
 
 This weekend - Saturday 21 September - is [World Alzheimer's Day](https://www.alzheimers.org.uk/get-involved/world-alzheimers-day) and while we waited we watched Samuel L Jackson explain how you - and an orange 🍊 - can eliminate the stigma and dispel the myth that there's nothing that can be done about dementia.
 
@@ -40,7 +40,7 @@ Reviews welcome 📚
 **Sarah** did an outrageous amount of work at RSE Con UK this week!
 She had a presentation on all three days!
 She was particularly proud of the RSE Worldwide panel she spoke on (and got really postive feedback from!)
-Her slides on "Collaborating Across Borders" are available at [https://doi.org/10.5281/zenodo.3377379](https://doi.org/10.5281/zenodo.3377379), and you can follow along her Zero to BinderHub tutorial at [http://bit.ly/zero-to-binderhub-workshop](http://bit.ly/zero-to-binderhub-workshop).
+Her slides on "Collaborating Across Borders" are available at [https://doi.org/10.5281/zenodo.3377379](https://doi.org/10.5281/zenodo.3377379), and you can follow along her Zero to BinderHub tutorial at [https://bit.ly/zero-to-binderhub-workshop](https://bit.ly/zero-to-binderhub-workshop).
 
 Really amazing work Sarah!
 Great job 🚀 🌟
@@ -49,8 +49,8 @@ Great job 🚀 🌟
 Fortunately, these meetings always go well and she has a fantastically supportive PI in Manchester.
 The take home message was that brains are weird, and believing in yourself is way easier said than done 💓
 
-**Yini** attended the Cambridge Neuroscience Symposium on [Artificial and Biological Cognition](http://www.neuroscience.cam.ac.uk/events/ABC2019/) last week.
-She took a couple of pictures of Kirstie hosting the [Early Career Investigator Data Blitz](https://github.com/WhitakerLab/DataBlitzResources) and particularly enjoyed Dr Lola Cañamer’s presentation on [Emotion Modeling in Robots](http://emotion-modeling.info/)!
+**Yini** attended the Cambridge Neuroscience Symposium on [Artificial and Biological Cognition](https://www.neuroscience.cam.ac.uk/events/ABC2019/) last week.
+She took a couple of pictures of Kirstie hosting the [Early Career Investigator Data Blitz](https://github.com/WhitakerLab/DataBlitzResources) and particularly enjoyed Dr Lola Cañamer’s presentation on [Emotion Modeling in Robots](https://emotion-modeling.info/)!
 Cañamer and her lab made some affective autonomous and social robots with the goal of understanding emotions in biological systems (humans and other animals) and how to build a better robot.
 
 <figure class="half">

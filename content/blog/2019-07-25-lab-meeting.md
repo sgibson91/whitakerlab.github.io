@@ -17,7 +17,7 @@ Keep reading to learn about some of the fun things that folks are celebrating an
 
 * The existence of the [first lab meeting blog post](../2019-07-18-lab-meeting).
 * The [video](https://youtu.be/IG3PcZ6EhiU) of her keynote talk at PyData London from a couple of weeks ago (and the playlist for [all the other talks](https://www.youtube.com/playlist?list=PLGVZCDnMOq0ocea1dd0it7jX7HgvZCjSW)).
-* A heads up that the deadline for [poster submissions](http://www.neuroscience.cam.ac.uk/events/ABC2019/pages/abc-programme.html) to the Cambridge Neuroscience Seminar on [Artificial and Biological Cognition](http://www.neuroscience.cam.ac.uk/events/ABC2019/pages/abc-programme.html) is coming up fast on **2 August**.
+* A heads up that the deadline for [poster submissions](https://www.neuroscience.cam.ac.uk/events/ABC2019/pages/abc-programme.html) to the Cambridge Neuroscience Seminar on [Artificial and Biological Cognition](https://www.neuroscience.cam.ac.uk/events/ABC2019/pages/abc-programme.html) is coming up fast on **2 August**.
 * A lot of excitement for submitting her first ever grant (with [James Hetherington](https://www.turing.ac.uk/people/programme-directors/james-hetherington) as the lead investigator).
 * And finally, a whole lot of love for Serena Williams in [this fun video](https://twitter.com/ItsBlackCulture/status/1152288508939243521?s=20).
 
@@ -52,7 +52,7 @@ She also noted that almost no-one is paying attention for **all** of your talk ð
 So putting some effort into bringing folks back to the story when you've lost them (eg 1/3 and 2/3 of the way through the presentation) is really helpful!
 
 **Georgia** is learning python and looking for folks to learn with too.
-Sarah has linked her up with the Turing Research Engineering code club and recommended [Rosetta Code](http://rosettacode.org/wiki/Rosetta_Code) as an interesting resource.
+Sarah has linked her up with the Turing Research Engineering code club and recommended [Rosetta Code](https://rosettacode.org/wiki/Rosetta_Code) as an interesting resource.
 
 **Ang** is curious about resources for getting started with open science.
 And in particular how to make it easy for different groups with different expertise or who use different languages (human and computer!) to work together.

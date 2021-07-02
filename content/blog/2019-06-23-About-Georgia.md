@@ -70,7 +70,7 @@ Reading!!!!!!! I'm a greedy omnivore who appreciates both books and computers.
   <img src="/images/About_Georgia/ReadWhileYouRun.jpg"
        alt="woman reading while running">
   <figcaption>This looks dangerous - full disclosure I've never risked this level of efficiency!
-  Image comes from <a href="http://www.saltyrunning.com/readers-roundtable-read-run">www.saltyrunning.com/readers-roundtable-read-run</a>
+  Image comes from <a href="https://www.saltyrunning.com/readers-roundtable-read-run">www.saltyrunning.com/readers-roundtable-read-run</a>
   </figcaption>
 </figure>
 

@@ -9,13 +9,13 @@ We hope you find this site a useful source of information about the work that Ki
 ### Mental health and adolescent brain development
 
 Adolescence is a period of human brain growth and high incidence of mental health disorders.
-Kirstie is a member of the [Neuroscience in Psychiatry Network](http://nspn.org.uk): a collaboration between the University of Cambridge and University College London which seeks to better understand adolescent development in brain and behaviour.
+Kirstie is a member of the [Neuroscience in Psychiatry Network](https://nspn.org.uk): a collaboration between the University of Cambridge and University College London which seeks to better understand adolescent development in brain and behaviour.
 
 Kirstie uses magnetic resonance imaging to investigate changes in the brain’s structure and function.
 She also uses graph theoretic methods to model the brain as a network.
 The different parts of the brain do not work alone, they are connected to each other and send messages back and forth in order to generate complex thoughts and social interactions.
 
-In work [published in PNAS](http://dx.doi.org/10.1073/pnas.1601745113) in 2016, the NSPN consortium showed that the particularly well connected regions - the hubs of the network - continue to develop throughout the teenage years, and this may be a mechanism to explain the emergence of mental health disorders during the teenage years.
+In work [published in PNAS](https://dx.doi.org/10.1073/pnas.1601745113) in 2016, the NSPN consortium showed that the particularly well connected regions - the hubs of the network - continue to develop throughout the teenage years, and this may be a mechanism to explain the emergence of mental health disorders during the teenage years.
 
 {{< youtube ztm2knaLBFc >}}
 

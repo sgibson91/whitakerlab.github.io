@@ -18,7 +18,7 @@ She's finished her [enrichment year](https://www.turing.ac.uk/work-turing/studen
 Thank you so much for being part of the group, Maxine!
 We'll miss you 💖
 
-**Kirstie** had some really fun conversations at the [INCF Assembly](https://www.neuroinformatics2019.org/) in Warsaw this week (including finding out that the team who collected the [Study Forrest](http://studyforrest.org/) dataset have never analysed it, and never intended to!).
+**Kirstie** had some really fun conversations at the [INCF Assembly](https://www.neuroinformatics2019.org/) in Warsaw this week (including finding out that the team who collected the [Study Forrest](https://studyforrest.org/) dataset have never analysed it, and never intended to!).
 She gave a talk on "Ten Simple Rules to Run an Open and Inclusive Project Online" (slides doi: [10.5281/zenodo.3383062](https://doi.org/10.5281/zenodo.3383062), [tweet thread](https://twitter.com/kirstie_j/status/1168138654650372097?s=20)) and made the picture below that she's particularly proud of 😂.
 She was also really proud to be a member of the Turing Safe Haven project team who published their design paper on arXiv this week ([arxiv: 1908.08737](https://arxiv.org/abs/1908.08737)).
 Kirstie ran the first _Turing Way_ [online Collaboration Cafe](https://github.com/alan-turing-institute/the-turing-way/blob/master/project_management/online-collaboration-cafe.md) this week and so appreciated Nadia, Jez and Malvika joining her to develop the _Turing Way_ project (video: [https://youtu.be/I0z7OEbBzes](https://www.youtube.com/watch?v=I0z7OEbBzes)).
@@ -37,11 +37,11 @@ She also shared a website (HT [Erik Sundell](https://github.com/consideRatio)) t
 
 **Elizabeth** shared [a very cool tool](https://microsoft.github.io/gather/) to "Manage Messes in Computational Notebooks".
 
-**Ang** promoted a [project](http://www.ia.cas.cn/qtgn/zpzs/201909/t20190903_5375263.html) run by his PhD research institution (Institute of Automation, Chinese Academy of Sciences) to hire some excellent early career researchers in AI.
+**Ang** promoted a [project](https://www.ia.cas.cn/qtgn/zpzs/201909/t20190903_5375263.html) run by his PhD research institution (Institute of Automation, Chinese Academy of Sciences) to hire some excellent early career researchers in AI.
 
 **Patricia** is settling into her new job and is celebrating the office having separate [crisps package recycling](https://www.terracycle.com/en-GB/brigades/crisppacket) bin 😋
 
-**Yini** shared a paper showing that Wednesday is a lucky day to submit your paper to a journal!! doi: [10.1016/j.physa.2016.10.078](https://doi.org/10.1016/j.physa.2016.10.078),  [author accepted version](http://cer.ihtm.bg.ac.rs/bitstream/handle/123456789/3012/14_0907_10.1016j.physa.2016.10.078.pdf;jsessionid=0D41C7DDA729E7DBB8986FC3FC6680B7?sequence=1).
+**Yini** shared a paper showing that Wednesday is a lucky day to submit your paper to a journal!! doi: [10.1016/j.physa.2016.10.078](https://doi.org/10.1016/j.physa.2016.10.078),  [author accepted version](https://cer.ihtm.bg.ac.rs/bitstream/handle/123456789/3012/14_0907_10.1016j.physa.2016.10.078.pdf;jsessionid=0D41C7DDA729E7DBB8986FC3FC6680B7?sequence=1).
 
 **Malvika** celebrated being accepted to co-lead a [Mozilla Open Leadership program in 2020](https://medium.com/read-write-participate/meet-the-open-leaders-x-cohort-1dc230a4c56a) with **Yo** and Berenice Batut.
 They will be receiving training in the next months.

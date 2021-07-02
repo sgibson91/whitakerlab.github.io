@@ -7,13 +7,13 @@ categories: resources
 tags: [applications, opencon, open-science]
 ---
 
-[OpenCon](http://www.opencon2017.org/) is a conference for early career academics and seeks to empower the next generation to advance Open Access, Open Education, and Open Data.
+[OpenCon](https://www.opencon2017.org/) is a conference for early career academics and seeks to empower the next generation to advance Open Access, Open Education, and Open Data.
 
 These are the essays from my (successful) application to attend OpenCon 2016 in Washington DC.
 
 The application was submitted on Monday 11th July 2016.
 
-<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a> which means you can distribute, remix, tweak, and build upon these answers as long as you **credit me for the original creation**.
+<a rel="license" href="https://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a> which means you can distribute, remix, tweak, and build upon these answers as long as you **credit me for the original creation**.
 
 ## Application essays
 

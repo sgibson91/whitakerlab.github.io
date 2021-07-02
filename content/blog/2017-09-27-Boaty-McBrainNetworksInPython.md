@@ -9,7 +9,7 @@ tags: [brain-networks-in-python, moz-open-leaders]
 
 ## Help us [choose a new name](https://poll.ly/#/Gx4yMMY7) for our brain networks software package
 
-{{< figure src="https://media.giphy.com/media/l41m04gr7tRet7Uas/giphy.gif" alt="dancing brain" caption="Source: [University of California](http://ucresearch.tumblr.com/post/42378715856/the-grateful-brain-uclas-alex-korb-takes-a-look) via Giphy." >}}
+{{< figure src="https://media.giphy.com/media/l41m04gr7tRet7Uas/giphy.gif" alt="dancing brain" caption="Source: [University of California](https://ucresearch.tumblr.com/post/42378715856/the-grateful-brain-uclas-alex-korb-takes-a-look) via Giphy." >}}
 
 The Whitaker Lab has been working on some code currently known as [BrainNetworksInPython](https://github.com/WhitakerLab/BrainNetworksInPython) with the intention to release it as a python package.
 
@@ -26,4 +26,4 @@ We've thrown a couple of our own suggestions (`brainz`, `bnip`, `networknoggins`
 
 Thank you!
 
-{{< figure src="https://media.giphy.com/media/EhzWrhGlYuvug/giphy.gif" alt="carl sagan: journey starts here" caption="Source: [Electric Space Kool Aid](http://electricspacekoolaid.tumblr.com/post/53993308420) via Giphy." >}}
+{{< figure src="https://media.giphy.com/media/EhzWrhGlYuvug/giphy.gif" alt="carl sagan: journey starts here" caption="Source: [Electric Space Kool Aid](https://electricspacekoolaid.tumblr.com/post/53993308420) via Giphy." >}}

@@ -52,7 +52,7 @@ About 10 hours so far, and at least as much more over the next few weeks.
 She's feeling happy and excited that people are so ready and willing to help 💖
 Good luck on all the transcriptions Yo!
 
-Yo also shared [http://citeas.org](http://citeas.org) as a really useful page to know how to cite something (dois, urls and arXiv ids all included).
+Yo also shared [https://citeas.org](https://citeas.org) as a really useful page to know how to cite something (dois, urls and arXiv ids all included).
 
 **Elizabeth** was sad to miss Fernando Perez's live stream at the American National Science Foundation last week, but recommends going through the 🌟 amazing 🌟 slides:
 * [https://speakerdeck.com/fperez/open-source-academic-science-and-the-public-mission-of-research-reflections-from-the-field](https://speakerdeck.com/fperez/open-source-academic-science-and-the-public-mission-of-research-reflections-from-the-field)

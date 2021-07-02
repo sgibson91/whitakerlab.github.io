@@ -17,7 +17,7 @@ Thanks Kirstie, Isla, and Sarah for your tips, suggestions, and a super interest
 Here are a select few 👇
 
   * Codeclimate for readable code: [https://codeclimate.com](https://codeclimate.com)
-  * Intro to git: [http://rogerdudler.github.io/git-guide](http://rogerdudler.github.io/git-guide)
+  * Intro to git: [https://rogerdudler.github.io/git-guide](https://rogerdudler.github.io/git-guide)
   * The most fantastic git resource: [https://ohshitgit.com](https://ohshitgit.com)
   * A bunch of thing you can do with Jupyer: [https://blog.jupyter.org/i-python-you-r-we-julia-baf064ca1fb6](https://blog.jupyter.org/i-python-you-r-we-julia-baf064ca1fb6)
   * A great project template for a research project: [https://drivendata.github.io/cookiecutter-data-science](https://drivendata.github.io/cookiecutter-data-science)
@@ -28,7 +28,7 @@ The GitHub repository and survey are now live, and we’ve sent an email to the 
 There are lots of ways to be involved:
 
 * The repo for the project is now live and you can visit it here: [https://github.com/alan-turing-institute/AutisticaCitizenScience](https://github.com/alan-turing-institute/AutisticaCitizenScience).
-* There's also a live survey for suggestions about the project: [http://bit.ly/AutisticaTuring-OnlineForm](http://bit.ly/AutisticaTuring-OnlineForm)
+* There's also a live survey for suggestions about the project: [https://bit.ly/AutisticaTuring-OnlineForm](https://bit.ly/AutisticaTuring-OnlineForm)
 * And you can sign up to the mailing list here: [https://tinyletter.com/AutisticaTuringCitizenScience](https://tinyletter.com/AutisticaTuringCitizenScience)
 
 ## Questions we're thinking about

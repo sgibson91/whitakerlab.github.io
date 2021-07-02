@@ -13,7 +13,7 @@ Please note that these are absolutely *not* the only papers I've thought were in
 
 ### Genetic analyses of depression
 
-Two papers caught my eye. One from the [Psychiatric Genomics Consortium](https://www.med.unc.edu/pgc) and one from [Andrew McIntosh](https://twitter.com/mcintosh2001) and colleagues using [UK Biobank](http://www.ukbiobank.ac.uk/) data.
+Two papers caught my eye. One from the [Psychiatric Genomics Consortium](https://www.med.unc.edu/pgc) and one from [Andrew McIntosh](https://twitter.com/mcintosh2001) and colleagues using [UK Biobank](https://www.ukbiobank.ac.uk/) data.
 
 #### Genome-wide association analyses identify 44 risk variants and refine the genetic architecture of major depression
 
@@ -71,7 +71,7 @@ Simon White also recommended this book chapter for anyone looking for a referenc
 * Δ AIC 6-10 : strong evidence
 * Δ AIC 10+ : very strong evidence
 
-Burnham, K. P., & Anderson, D. R. (2002). Model Selection and Multimodel Inference: A Practical Information-Theoretic Approach (2nd ed). Ecological Modelling (Vol. 172). Retrieved from [http://www.springer.com/gb/book/9780387953649](http://www.springer.com/gb/book/9780387953649)
+Burnham, K. P., & Anderson, D. R. (2002). Model Selection and Multimodel Inference: A Practical Information-Theoretic Approach (2nd ed). Ecological Modelling (Vol. 172). Retrieved from [https://www.springer.com/gb/book/9780387953649](https://www.springer.com/gb/book/9780387953649)
 
 ### Artificial intelligence and neuroscience
 
@@ -84,7 +84,7 @@ Hassabis, D., Kumaran, D., Summerfield, C., & Botvinick, M. (2017). Neuroscience
 
 ### And finally
 
-In lab meeting last week we rather adored this quote from a write up of the [Brain Connectivity Workshop](http://brain-connectivity-workshop.org/) in Cambridge in 2003.
+In lab meeting last week we rather adored this quote from a write up of the [Brain Connectivity Workshop](https://brain-connectivity-workshop.org/) in Cambridge in 2003.
 
 > Finally, no report on a spring meeting in England would be complete without some comment on the notoriously capricious weather. Overseas participants were perhaps pleasantly surprised, on the evening of the first day, to find themselves enjoying a glass or two of Pimm’s (an English summer fruit punch) in a warm and sunny Cambridge garden. By the evening of the second day, however, cold and squally conditions threatened, but did not deter, the workshop’s collective voyage, in a flotilla of open punts, down the river Cam to dinner in a local restaurant: a subset of punters even opted for the hazardous return trip upstream after dinner, past the backs of some of the older colleges under low cloud late at night.
 

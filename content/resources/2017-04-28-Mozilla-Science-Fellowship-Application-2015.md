@@ -11,7 +11,7 @@ On this page you can find the answers from my (unsuccessful) application to beco
 
 The application was submitted on August 14th at 7:01pm while on holiday in Edinburgh! I had some delicious cocktails that evening 😊 🍸.
 
-<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a> which means you can distribute, remix, tweak, and build upon these answers as long as you **credit me for the original creation**.
+<a rel="license" href="https://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a> which means you can distribute, remix, tweak, and build upon these answers as long as you **credit me for the original creation**.
 
 # Application Essays
 
@@ -86,7 +86,7 @@ Raw data, all analysis code and the instructions to replicate all figures need t
 
 *(50 words)*
 
-I am most inspired by the Neurosynth project ([www.neurosynth.org](http://www.neurosynth.org/)): an online platform for large-scale meta-analyses of functional MRI data through text mining published articles. You can explore associations between regional brain activations and each of over 3000 terms, or decode your own results in real time by reversing the process.
+I am most inspired by the Neurosynth project ([www.neurosynth.org](https://www.neurosynth.org/)): an online platform for large-scale meta-analyses of functional MRI data through text mining published articles. You can explore associations between regional brain activations and each of over 3000 terms, or decode your own results in real time by reversing the process.
 
 #### Why is the open web important to you?
 

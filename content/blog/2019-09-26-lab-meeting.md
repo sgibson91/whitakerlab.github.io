@@ -62,13 +62,13 @@ She, **Malvika** and **Patricia** are fellows already and, although the money is
 **Louise** is helping to organise a [two-day workshop](https://www.turing.ac.uk/events/introduction-spark-data-scientists) at the Turing  introducing [Spark](https://spark.apache.org/) at the end of October.
 
 **Elizabeth** shared [ImageNet Roulette](https://imagenet-roulette.paglen.com).
-(It was only available until Friday 27 September, so that link will take you to a write up of the project by authors [Kate Crawford](https://katecrawford.net) and [Trevor Paglen](http://www.paglen.com)).
+(It was only available until Friday 27 September, so that link will take you to a write up of the project by authors [Kate Crawford](https://katecrawford.net) and [Trevor Paglen](https://www.paglen.com)).
 She was pleasantly surprised that the public outcry led ImageNet to [scrub about half (!!) of their "people" category](https://www.msn.com/en-us/news/technology/everyday-people-how-a-massive-picture-database-sparked-a-discussion-about-ai-and-bias/ar-AAHy5Jy).
 
 **Ang** has been exploring the [Pingouin](https://pingouin-stats.org) 🐧 Python package to perform standard statistical tests.
 Checkout the [interactive demo on Binder](https://mybinder.org/v2/gh/raphaelvallat/pingouin/develop).
 
-**Yini** recommends [NeuroPower](http://neuropowertools.org/neuropower/neuropowerstart) which helps researchers make sure they're appropriately powered (eg with a large enough sample size) before they start their experiments.
+**Yini** recommends [NeuroPower](https://neuropowertools.org/neuropower/neuropowerstart) which helps researchers make sure they're appropriately powered (eg with a large enough sample size) before they start their experiments.
 
 ## Questions we're thinking about
 
@@ -115,7 +115,7 @@ She also recommended (and **Kirstie** strongly concurs!) getting lots of people 
 
 <figure>
   <img src="https://phdcomics.com/comics/archive/phd050305s.gif" alt="Addressing reviewer comments comic from PhD Comics">
-  <figcaption>Source: <a href="http://phdcomics.com/comics/archive.php?comicid=581">PhD Comics</a> from 2005!.
+  <figcaption>Source: <a href="https://phdcomics.com/comics/archive.php?comicid=581">PhD Comics</a> from 2005!.
   </figcaption>
 </figure>
 

@@ -41,8 +41,8 @@ Have a play yourself [on Binder](https://mybinder.org/v2/gh/altair-viz/altair_no
 ## Questions we're thinking about
 
 **Louise** asked the group their opinions on tutorials to learn git.
-The [Software Carpentry lesson](http://swcarpentry.github.io/git-novice/) is very famous but some instructors don't find it very useful for new learners.
-Kirstie recommended Elizabeth's [tutorial](http://emdupre.github.io/git-course) from Neurohackademy and the [recording of her talk](https://youtu.be/7h5tEPfM59U), and the [Friendly GitHub Intro](https://kirstiejane.github.io/friendly-github-intro) workshop that she's run multiple times.
+The [Software Carpentry lesson](https://swcarpentry.github.io/git-novice/) is very famous but some instructors don't find it very useful for new learners.
+Kirstie recommended Elizabeth's [tutorial](https://emdupre.github.io/git-course) from Neurohackademy and the [recording of her talk](https://youtu.be/7h5tEPfM59U), and the [Friendly GitHub Intro](https://kirstiejane.github.io/friendly-github-intro) workshop that she's run multiple times.
 
 **Sarah** is looking for anyone with expertise in [kube-lego](https://github.com/jetstack/kube-lego) and [Let's Encrypt](https://letsencrypt.org/)!
 (No one was able to help her 😭)
@@ -53,7 +53,7 @@ We did have some suggestions around ways to manage her TODO lists though.
 * Trello: [https://trello.com](https://trello.com)
 * Asana: [https://asana.com](https://asana.com/)
 * Pomodoro technique: [https://en.wikipedia.org/wiki/Pomodoro_Technique](https://en.wikipedia.org/wiki/Pomodoro_Technique)
-  * An online timer: [http://e.ggtimer.com/pomodoro](http://e.ggtimer.com/pomodoro)
+  * An online timer: [https://e.ggtimer.com/pomodoro](https://e.ggtimer.com/pomodoro)
 * Toggl: [https://toggl.com](https://toggl.com/)
 * Having an *accountabilibuddy* to keep you focused when you could easily be derailed by other tasks.
 * Doing the thing you don't want to do first so there is a reward at the end (and so you don't spend lots of time on it!)
@@ -105,7 +105,7 @@ And a core requirement of effective collaboration is **trust**.
 In fact, there was an article in the Harvard Business Review in 2011 that named trust as the ["The One Thing That Makes Collaboration Work"](https://hbr.org/2011/07/one-thing-that-makes-collaboration).
 
 Building trust is a difficult and multi-dimensional, but by being vulnerable with each other is one core component.
-In her book [Emergent Strategy](https://www.goodreads.com/en/book/show/29633913-emergent-strategy) (which I love love love), and in [this blog post](http://adriennemareebrown.net/2013/12/14/principles-of-emergent-processes-in-facilitation/) from 2013, [adrienne maree brown](http://adriennemareebrown.net/) describes the following principles:
+In her book [Emergent Strategy](https://www.goodreads.com/en/book/show/29633913-emergent-strategy) (which I love love love), and in [this blog post](https://adriennemareebrown.net/2013/12/14/principles-of-emergent-processes-in-facilitation/) from 2013, [adrienne maree brown](https://adriennemareebrown.net/) describes the following principles:
 
 > * lao tzu says "if you don’t trust the people, they become untrustworthy."
 >   the first principle is a positive flip of this statement – if you trust the people, they become trustworthy.
@@ -116,7 +116,7 @@ In her book [Emergent Strategy](https://www.goodreads.com/en/book/show/29633913-
 >   let it come forth.
 > * the connection between the individuals is what makes the whole group/community strong.
 
-*(Note that brown [self determines](http://adriennemareebrown.net/2016/09/11/941am-911/#comment-1415562) what she capitalises, which reminds me of - and is possibly inspired by - black feminist writer [bell hooks](https://en.wikipedia.org/wiki/Bell_hooks) who did not capitalise her name in order ["to focus on the substance of her work, not who [she] is"](https://www.blackpast.org/african-american-history/hooks-bell-gloria-jean-watkins-1952/).)*
+*(Note that brown [self determines](https://adriennemareebrown.net/2016/09/11/941am-911/#comment-1415562) what she capitalises, which reminds me of - and is possibly inspired by - black feminist writer [bell hooks](https://en.wikipedia.org/wiki/Bell_hooks) who did not capitalise her name in order ["to focus on the substance of her work, not who [she] is"](https://www.blackpast.org/african-american-history/hooks-bell-gloria-jean-watkins-1952/).)*
 
 If we want information to flow around a decentralised network, then we need to trust each other.
 I believe that **building connections between individual people are the magic that will lead to the most exciting and innovative data science**.

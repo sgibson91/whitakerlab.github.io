@@ -10,7 +10,7 @@ This is my application for a [Mozilla Mini Grant](https://mozilla-science-lab.fo
 
 The application was submitted on the 1st of June 2017.
 
-<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a> which means you can distribute, remix, tweak, and build upon these answers as long as you **credit me for the original creation**.
+<a rel="license" href="https://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a> which means you can distribute, remix, tweak, and build upon these answers as long as you **credit me for the original creation**.
 
 # Mozilla Mini Grant application
 
@@ -56,7 +56,7 @@ The Brain Networks in Python project provides open source, documented, tested an
 
 I will be mentored by Dr Kirstie Whitaker. Kirstie is a research fellow at the Turing Institute and outgoing Mozilla Fellow for Science. She is a neuroscientist who studies brain development, using graph theory to understand the brain as a network. Dr Whitaker is a two time mentor for the Mozilla Open Leadership Training Series and she has extensive skills in nurturing and supporting open projects. The Brain Networks in Python is built within the Whitaker Lab GitHub repository where Dr Whitaker is an active contributor. She will review all code and documentation and provide guidance to ensure the Brain Networks In Python project is accessible and usable for all.
 
-I will also work with the research software engineering team at the Alan Turing Institute. The team is lead by Dr James Hetherington who has worked for 5 years as the head of Research Software Development at University College London. In his words: "Well written, readable software, written for humans to read as well as computers to execute, forms an important part of research communications and can deliver significant research impact." (http://www.ucl.ac.uk/research-it-services/people/james)
+I will also work with the research software engineering team at the Alan Turing Institute. The team is lead by Dr James Hetherington who has worked for 5 years as the head of Research Software Development at University College London. In his words: "Well written, readable software, written for humans to read as well as computers to execute, forms an important part of research communications and can deliver significant research impact." (https://www.ucl.ac.uk/research-it-services/people/james)
 
 *Link no longer resolves.*
 *James Hetherington is now Director of Research Engineering at the Turing.*
@@ -94,7 +94,7 @@ The three goals of this mini-grant proposal are to 1) unlock the specialised kno
 
 *Activities*
 
-The Brain Networks in Python code was implemented in the Neuroscience in Psychiatry Network publication "Adolescence is associated with genomically patterned consolidation of the hubs of the human brain connectome" published in PNAS in 2016 ([Whitaker\*, Vertes\* et al, 2016](http://dx.doi.org/10.1073/pnas.1601745113)). The code conducts structural covariance network analyses on cortical thickness measurements from two independent cohorts and creates all figures and results tables for the published manuscript. The code and data to support the manuscript can be found at [https://github.com/KirstieJane/NSPN_WhitakerVertes_PNAS2016](https://github.com/KirstieJane/NSPN_WhitakerVertes_PNAS2016).
+The Brain Networks in Python code was implemented in the Neuroscience in Psychiatry Network publication "Adolescence is associated with genomically patterned consolidation of the hubs of the human brain connectome" published in PNAS in 2016 ([Whitaker\*, Vertes\* et al, 2016](https://dx.doi.org/10.1073/pnas.1601745113)). The code conducts structural covariance network analyses on cortical thickness measurements from two independent cohorts and creates all figures and results tables for the published manuscript. The code and data to support the manuscript can be found at [https://github.com/KirstieJane/NSPN_WhitakerVertes_PNAS2016](https://github.com/KirstieJane/NSPN_WhitakerVertes_PNAS2016).
 
 As currently written, the Brain Networks in Python code is monolithic. It is very difficult to repurpose for new analyses or for different datasets. The first goal of this project will be to *refactor the code into modules*. Specifically, I will break down the conceptual steps for a network analysis and allow the user to re-combine them as they see fit. For example, one user may want to use the code only for the graph theory measures while another may use the visualisation module alone. It will be possible to link the modules together to complete an entire neuroimaging analysis from start to finish, but this workflow will not be necessary. Modularising the software will permit a more diverse user base and a much more interoperable set of code.
 
@@ -102,7 +102,7 @@ The second best time to add in tests for software is when refactoring. (The opti
 
 We will also add *new functionality* to the code. There is currently no way (in this codebase) to investigate the difference in brain networks between two groups. For example, a key question in the field of biological psychiatry is whether the brains of people who have a diagnosis of depression are differently connected to the brains of healthy control participants. We will add a module that permutes the original data and builds up a null distribution so that differences between the two real groups, for example people with a diagnosis of depression and healthy controls, can be statistically tested.
 
-Along with integrated tests, *documentation* will allow the Brain Networks in Python code to be used by many people. We will provide example data and clear tutorials to make it easy for users to install and get up and running with the code. These tutorials will be in the form of Jupyter notebooks that can be either downloaded and run locally or run in a MyBinder ([http://mybinder.org](http://mybinder.org)) instance online. An example Jupyter notebook that is currently in development can be found at [https://github.com/WhitakerLab/BrainNetworksInPython/blob/master/Example_JupyterNotebook.ipynb](https://github.com/WhitakerLab/BrainNetworksInPython/blob/e6d068bcb071de13cc512aa8c62eec78b387e445/Example_JupyterNotebook.ipynb).
+Along with integrated tests, *documentation* will allow the Brain Networks in Python code to be used by many people. We will provide example data and clear tutorials to make it easy for users to install and get up and running with the code. These tutorials will be in the form of Jupyter notebooks that can be either downloaded and run locally or run in a MyBinder ([https://mybinder.org](https://mybinder.org)) instance online. An example Jupyter notebook that is currently in development can be found at [https://github.com/WhitakerLab/BrainNetworksInPython/blob/master/Example_JupyterNotebook.ipynb](https://github.com/WhitakerLab/BrainNetworksInPython/blob/e6d068bcb071de13cc512aa8c62eec78b387e445/Example_JupyterNotebook.ipynb).
 
 Finally, we will *release our code as a Python package* that can be easily installed via `pip` ([https://packaging.python.org](https://packaging.python.org)) or conda ([https://conda.io](https://conda.io)). We will ensure that all released versions of our code have digital object identifiers from Zenodo ([https://zenodo.org](https://zenodo.org/)).
 
@@ -114,7 +114,7 @@ Finally, we will *release our code as a Python package* that can be easily insta
 * Version controlled code that permits rigorous reproducible neuroscience.
 * An open and inclusive community dedicated to supporting new and veteran users and contributors.
 
-Once a community grows around the project we hope to inspire additional integrations. For example collaborating with Mozilla Global Sprint project Cytoscape js ([http://js.cytoscape.org](http://js.cytoscape.org/)) to provide interactive visualisations of the networks. We could also harness the power of Docker containers promoted by BIDS (Brain Imaging Data Structure) Apps ([http://bids-apps.neuroimaging.io](http://bids-apps.neuroimaging.io/)) to make it even easier for analyses to be reproducible and accessible. The code currently provides very standard graph theoretic measures, but we would hope to integrate novel computations such as the network versatility (Shinn et al, 2017; [https://github.com/mwshinn/versatility](https://github.com/mwshinn/versatility)).
+Once a community grows around the project we hope to inspire additional integrations. For example collaborating with Mozilla Global Sprint project Cytoscape js ([https://js.cytoscape.org](https://js.cytoscape.org/)) to provide interactive visualisations of the networks. We could also harness the power of Docker containers promoted by BIDS (Brain Imaging Data Structure) Apps ([https://bids-apps.neuroimaging.io](https://bids-apps.neuroimaging.io/)) to make it even easier for analyses to be reproducible and accessible. The code currently provides very standard graph theoretic measures, but we would hope to integrate novel computations such as the network versatility (Shinn et al, 2017; [https://github.com/mwshinn/versatility](https://github.com/mwshinn/versatility)).
 
 *Outcomes*
 
@@ -126,7 +126,7 @@ The outcomes of this project during the grant period will be to increase the num
 **Provide key indicators you plan to use to measure project outcomes and source of data.** *(500 words)*
 
 * Number of contributors. We will track the number of commits in any branch of the project along with any comments on issues or pull request reviews as contributions using the Let All Build a Hatrack tool ([https://labhr.github.io](https://labhr.github.io/)). We will acknowledge these contributors publicly within the GitHub project repository using Kent Dodd's All Contributors emoji key ([https://github.com/kentcdodds/all-contributors](https://github.com/kentcdodds/all-contributors)).
-* Package downloads. We will track the number of downloads of our Python package using the [http://pypi-ranking.info](http://pypi-ranking.info) website.
+* Package downloads. We will track the number of downloads of our Python package using the [https://pypi-ranking.info](https://pypi-ranking.info) website.
 * Scientific citations of the code. We will track the Zenodo DOI for each version of the code to see how often the Brain Networks in Python code is used in academic publications. There are three projects that Kirstie Whitaker is already involved in that will cite the code on submission for publication by the end of 2017.
 
 **Explain who will benefit from the project.** *(100 words)*
@@ -148,7 +148,7 @@ One of the greatest challenges for the project is that of finding time to build 
 
 **Is this a new project or continuation? If new, please describe your qualifications to initiate the activity. If continued, please describe your accomplishments to date. Feel free to include links to articles and documents online that highlight your recent work.** *(1000 words)*
 
-The project is a continuation of the work that Dr Kirstie Whitaker published in 2016 ([Whitaker\*, Vertes\* et al, 2016](http://dx.doi.org/10.1073/pnas.1601745113)). The code is openly available on GitHub ([https://github.com/KirstieJane/NSPN_WhitakerVertes_PNAS2016](https://github.com/KirstieJane/NSPN_WhitakerVertes_PNAS2016)). For this work, Dr Whitaker and her collaborator Petra Vertes were named as [2016 Global Thinkers](https://gt.foreignpolicy.com/2016/profile/petra-vertes-and-kirstie-whitaker) by Foreign Policy magazine.
+The project is a continuation of the work that Dr Kirstie Whitaker published in 2016 ([Whitaker\*, Vertes\* et al, 2016](https://dx.doi.org/10.1073/pnas.1601745113)). The code is openly available on GitHub ([https://github.com/KirstieJane/NSPN_WhitakerVertes_PNAS2016](https://github.com/KirstieJane/NSPN_WhitakerVertes_PNAS2016)). For this work, Dr Whitaker and her collaborator Petra Vertes were named as [2016 Global Thinkers](https://gt.foreignpolicy.com/2016/profile/petra-vertes-and-kirstie-whitaker) by Foreign Policy magazine.
 
 Dr Whitaker's CV is available at our lab GitHub repository: [https://github.com/WhitakerLab/WhitakerLabProjectManagement/blob/master/weekly-updates/Kirstie-Whitaker/Whitaker_CV.pdf](https://github.com/WhitakerLab/WhitakerLabProjectManagement/blob/master/weekly-updates/Kirstie-Whitaker/Whitaker_CV.pdf)
 
@@ -178,7 +178,7 @@ Importantly however, I may not be needed to continue on the project. If our two 
 
 **Please upload an itemized project budget using the template linked below.**
 
-[http://bit.ly/2riERqd](http://bit.ly/2riERqd)
+[https://bit.ly/2riERqd](https://bit.ly/2riERqd)
 
 ### Communications
 

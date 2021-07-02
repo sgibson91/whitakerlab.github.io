@@ -1,4 +1,4 @@
-baseURL = "http://whitakerlab.github.io/"
+baseURL = "https://whitakerlab.github.io/"
 languageCode = "en-gb"
 title = "Whitaker Lab"
 theme = "minimo"
